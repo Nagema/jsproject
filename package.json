@@ -1,0 +1,24 @@
+{
+  "name": "jsproject",
+  "version": "1.0.0",
+  "description": "js project",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "gretting":"node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagema/jsproject.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "nagema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagema/jsproject/issues"
+  },
+  "homepage": "https://github.com/Nagema/jsproject#readme"
+}
